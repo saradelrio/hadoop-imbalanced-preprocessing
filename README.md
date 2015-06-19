@@ -27,5 +27,5 @@ Figure 3: A flowchart of how the SMOTE MapReduce design works.
 
 # References
 
-S. Río, V. López, J.M. Benítez, F. Herrera. On the use of MapReduce for Imbalanced Big Data using Random Forest. Information Sciences 285 (2014) 112-137. doi: 10.1016/j.ins.2014.03.043 [link to pdf file](http://sci2s.ugr.es/sites/default/files/ficherosPublicaciones/1742_2014-delRio-INS.pdf)
+S. Río, V. López, J.M. Benítez, F. Herrera. *On the use of MapReduce for Imbalanced Big Data using Random Forest*. Information Sciences 285 (2014) 112-137. doi: 10.1016/j.ins.2014.03.043 [link to pdf file](http://sci2s.ugr.es/sites/default/files/ficherosPublicaciones/1742_2014-delRio-INS.pdf)
 
